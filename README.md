@@ -11,13 +11,12 @@ https://github.com/datsoftlyngby/soft2019spring-test/blob/master/Slides/03%20Tes
 ## Assignment
 
 - Write a program where you illustrate what non-testable code could look like. Make sure to include
-some code smells that you can refactor away later.
+some [code smells](https://en.wikipedia.org/wiki/Code_smell) that you can refactor away later.
 - Static analysis:
-  - Use a tool to automatically check for code smells, e.g. CheckStyle and FindBugs for Java. You can
-use JaCoCo to calculate Cyclomatic Complexity. Document the result.
+  - Use a tool to automatically check for code smells, e.g. [CheckStyle](https://en.wikipedia.org/wiki/Checkstyle) and [FindBugs](https://en.wikipedia.org/wiki/FindBugs) for Java. You can use [JaCoCo](https://en.wikipedia.org/wiki/Java_code_coverage_tools) to calculate Cyclomatic Complexity. Document the result.
 - Rewrite the program with testability in mind and write automated unit tests for the program.
-In the transformation of the code structure, you can get inspiration from Martin Fowler’s refactory
-pattern catalogue1
+In the transformation of the code structure, you can get inspiration from Martin Fowler’s [refactory
+pattern catalogue](https://refactoring.com/catalog/)
 , e.g.
 https://refactoring.com/catalog/extractFunction.html
 https://refactoring.com/catalog/removeDeadCode.html
