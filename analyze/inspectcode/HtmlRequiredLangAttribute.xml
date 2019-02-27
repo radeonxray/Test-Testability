@@ -1,0 +1,482 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_METHOD.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_METHOD.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_NAME_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_NAME_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_BLOCK_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_BLOCK_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_CLASS.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_CLASS.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_BLOCK.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_BLOCK.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_CLASS_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_CLASS_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_LINE.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_LINE.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_METHOD_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_METHOD_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_LINE_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/index_SORT_BY_LINE_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_LINE.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_LINE.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_METHOD_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_METHOD_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_CLASS_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_CLASS_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_NAME_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_NAME_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_LINE_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_LINE_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_CLASS.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_CLASS.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_BLOCK.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_BLOCK.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_METHOD.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_METHOD.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_BLOCK_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index_SORT_BY_BLOCK_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/index.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/.classes/TestAbleAndCleanCode.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/.classes/TestAbleAndCleanCode.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/.classes/NonTestableCodeAndSmells.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/.classes/NonTestableCodeAndSmells.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/.classes/Person.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/.classes/Person.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_METHOD.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_METHOD.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_NAME_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_NAME_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_BLOCK_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_BLOCK_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_CLASS.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_CLASS.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_BLOCK.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_BLOCK.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_CLASS_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_CLASS_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_LINE.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_LINE.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_METHOD_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_METHOD_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/main.java/index_SORT_BY_LINE_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/main.java/index_SORT_BY_LINE_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/.classes/Person.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/.classes/Person.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/.classes/NonTestableCodeAndSmells.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/.classes/NonTestableCodeAndSmells.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/.classes/TestAbleAndCleanCode.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/main.java/.classes/TestAbleAndCleanCode.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_BLOCK_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_BLOCK_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_METHOD.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_METHOD.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_BLOCK.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_BLOCK.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_CLASS.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_CLASS.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_LINE_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_LINE_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_NAME_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_NAME_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_CLASS_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_CLASS_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_METHOD_DESC.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_METHOD_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_LINE.html</file>
+  <line>5</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/index_SORT_BY_LINE.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_LINE_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_LINE_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_METHOD_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_METHOD_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_LINE.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_LINE.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_CLASS_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_CLASS_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_BLOCK.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_BLOCK.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_CLASS.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_CLASS.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_BLOCK_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_BLOCK_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_NAME_DESC.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_NAME_DESC.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_METHOD.html</file>
+  <line>4</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/index_SORT_BY_METHOD.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/.classes/Person.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/.classes/Person.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/.classes/NonTestableCodeAndSmells.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/.classes/NonTestableCodeAndSmells.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/.classes/TestAbleAndCleanCode.html</file>
+  <line>6</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/main.java/.classes/TestAbleAndCleanCode.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/findbugs/findbugs-result-Test-Testability[Testability]_2019_02_27_22_18_10.html</file>
+  <line>2</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/findbugs/findbugs-result-Test-Testability[Testability]_2019_02_27_22_18_10.html" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'lang' attribute</problem_class>
+  <description>Missing required 'lang' attribute</description>
+</problem>
+</problems>

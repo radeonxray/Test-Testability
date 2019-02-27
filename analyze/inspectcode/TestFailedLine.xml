@@ -1,0 +1,11 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/test/java/main/java/TestSmellsAndNoTestAbleCode.java</file>
+  <line>16</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.TestSmellsAndNoTestAbleCode void testRandomNumber()" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Highlight problem line in test</problem_class>
+  <description>org.opentest4j.AssertionFailedError:</description>
+</problem>
+</problems>

@@ -1,0 +1,144 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+  <title>Coverage Report :: TestAbleAndCleanCode</title>
+  <style type="text/css">
+    @import "../../.css/coverage.css";
+  </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+<div class="breadCrumbs">
+    [ <a href="../../index.html">all classes</a> ]
+    [ <a href="../index.html">main.java</a> ]
+</div>
+
+<h1>Coverage Summary for Class: TestAbleAndCleanCode (main.java)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">TestAbleAndCleanCode</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 7)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 14)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<div class="sourceCode"><i>1</i>&nbsp;package main.java;
+<i>2</i>&nbsp;
+<b class="nc"><i>3</i>&nbsp;public class TestAbleAndCleanCode {</b>
+<i>4</i>&nbsp;
+<i>5</i>&nbsp;    //Returning a number to be tested
+<i>6</i>&nbsp;    int calculateTwoNumbers(){
+<i>7</i>&nbsp;
+<b class="nc"><i>8</i>&nbsp;        int a = 90;</b>
+<b class="nc"><i>9</i>&nbsp;        int b = 80;</b>
+<i>10</i>&nbsp;
+<b class="nc"><i>11</i>&nbsp;        return a + b;</b>
+<i>12</i>&nbsp;    }
+<i>13</i>&nbsp;
+<i>14</i>&nbsp;    //Code that is never reached
+<i>15</i>&nbsp;    //Removed Dead code
+<i>16</i>&nbsp;    //https://refactoring.com/catalog/removeDeadCode.html
+<i>17</i>&nbsp;    public int DeadCode(int a, int b){
+<i>18</i>&nbsp;
+<b class="nc"><i>19</i>&nbsp;        int c = a + b;</b>
+<i>20</i>&nbsp;
+<i>21</i>&nbsp;
+<b class="nc"><i>22</i>&nbsp;        return c;</b>
+<i>23</i>&nbsp;    }
+<i>24</i>&nbsp;
+<i>25</i>&nbsp;    //Inline Variable
+<i>26</i>&nbsp;    //https://refactoring.com/catalog/inlineVariable.html
+<i>27</i>&nbsp;    //Good Example
+<i>28</i>&nbsp;    public float calculateFivePercentGood(float number){
+<i>29</i>&nbsp;
+<b class="nc"><i>30</i>&nbsp;        return (number/100)*5;</b>
+<i>31</i>&nbsp;
+<i>32</i>&nbsp;    }
+<i>33</i>&nbsp;
+<i>34</i>&nbsp;    //Looooong method name, fixed
+<i>35</i>&nbsp;    //Testable, but bad method name
+<i>36</i>&nbsp;    public String printSentence(String text){
+<i>37</i>&nbsp;
+<b class="nc"><i>38</i>&nbsp;        System.out.println(text);</b>
+<i>39</i>&nbsp;
+<b class="nc"><i>40</i>&nbsp;        return text;</b>
+<i>41</i>&nbsp;    }
+<i>42</i>&nbsp;
+<i>43</i>&nbsp;    //Introduce Parameter Object
+<i>44</i>&nbsp;    //https://refactoring.com/catalog/introduceParameterObject.html
+<i>45</i>&nbsp;    // Good
+<i>46</i>&nbsp;    public String printName(Person person){
+<b class="nc"><i>47</i>&nbsp;        System.out.println(person.firstName + &quot; &quot; + person.lastName);</b>
+<b class="nc"><i>48</i>&nbsp;        return person.firstName + &quot; &quot; + person.lastName;</b>
+<i>49</i>&nbsp;    }
+<i>50</i>&nbsp;
+<i>51</i>&nbsp;    //Replace Exception with Precheck
+<i>52</i>&nbsp;    //https://refactoring.com/catalog/replaceExceptionWithPrecheck.html
+<i>53</i>&nbsp;    //Good
+<i>54</i>&nbsp;    public String returnArrayItem(int number){
+<i>55</i>&nbsp;
+<b class="nc"><i>56</i>&nbsp;            String[] kitchenItems = {&quot;CocaCola&quot;,&quot;Cheese&quot;,&quot;Knife&quot;,&quot;Table&quot;,&quot;Spoon&quot;,&quot;Milk&quot;,&quot;Butter&quot;};</b>
+<b class="nc"><i>57</i>&nbsp;            number = (number &lt; kitchenItems.length) ? number : kitchenItems.length -1;</b>
+<i>58</i>&nbsp;
+<b class="nc"><i>59</i>&nbsp;            return kitchenItems[number];</b>
+<i>60</i>&nbsp;    }
+<i>61</i>&nbsp;}
+</div>
+</div>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2019-02-27 22:04</div>
+</div>
+</body>
+</html>

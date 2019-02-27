@@ -1,0 +1,65 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/test/java/main/java/TestSmellsAndNoTestAbleCode.java</file>
+  <line>22</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/test/java/main/java/TestSmellsAndNoTestAbleCode.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Annotator</problem_class>
+  <description>FindBugs: Dead store to local variable
+This instruction assigns a value to a local variable, but the value is not read or used in any subsequent instruction. Often, this indicates an error, because the value computed is never used. Note that Sun's ja
+vac compiler often generates dead stores for final local variables. Because FindBugs is a bytecode-based tool, there is no easy way to eliminate these false positives. #loc</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>12</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Annotator</problem_class>
+  <description>FindBugs: Method names should start with a lower case letter
+Methods should be verbs, in mixed case with the first letter lowercase, with the first letter of each internal word capitalized. #loc</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>28</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Annotator</problem_class>
+  <description>FindBugs: Dead store to local variable
+This instruction assigns a value to a local variable, but the value is not read or used in any subsequent instruction. Often, this indicates an error, because the value computed is never used. Note that Sun's ja
+vac compiler often generates dead stores for final local variables. Because FindBugs is a bytecode-based tool, there is no easy way to eliminate these false positives. #loc</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>37</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Annotator</problem_class>
+  <description>FindBugs: Dead store to local variable
+This instruction assigns a value to a local variable, but the value is not read or used in any subsequent instruction. Often, this indicates an error, because the value computed is never used. Note that Sun's ja
+vac compiler often generates dead stores for final local variables. Because FindBugs is a bytecode-based tool, there is no easy way to eliminate these false positives. #loc</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>53</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Annotator</problem_class>
+  <description>FindBugs: Method names should start with a lower case letter
+Methods should be verbs, in mixed case with the first letter lowercase, with the first letter of each internal word capitalized. #loc</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/TestAbleAndCleanCode.java</file>
+  <line>19</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/main/java/TestAbleAndCleanCode.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Annotator</problem_class>
+  <description>FindBugs: Method names should start with a lower case letter
+Methods should be verbs, in mixed case with the first letter lowercase, with the first letter of each internal word capitalized. #loc</description>
+</problem>
+</problems>

@@ -1,0 +1,186 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css</file>
+  <line>35</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector overallStats is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css</file>
+  <line>120</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector pc is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css</file>
+  <line>132</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector green is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css</file>
+  <line>132</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector green is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css</file>
+  <line>136</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector red is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css</file>
+  <line>136</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector red is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css</file>
+  <line>140</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestNonSmellAndTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector totalDiff is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/.css/coverage.css</file>
+  <line>35</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector overallStats is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/.css/coverage.css</file>
+  <line>120</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector pc is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/.css/coverage.css</file>
+  <line>132</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector green is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/.css/coverage.css</file>
+  <line>132</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector green is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/.css/coverage.css</file>
+  <line>136</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector red is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/.css/coverage.css</file>
+  <line>136</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector red is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/.css/coverage.css</file>
+  <line>140</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector totalDiff is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css</file>
+  <line>35</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector overallStats is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css</file>
+  <line>120</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector pc is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css</file>
+  <line>132</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector green is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css</file>
+  <line>132</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector green is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css</file>
+  <line>136</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector red is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css</file>
+  <line>136</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector red is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css</file>
+  <line>140</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/jacoco/TestSmellsAndNoTestAbleCode/.css/coverage.css" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector totalDiff is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/findbugs/findbugs-result-Test-Testability[Testability]_2019_02_27_22_18_10.html</file>
+  <line>14</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/findbugs/findbugs-result-Test-Testability[Testability]_2019_02_27_22_18_10.html" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector detailrow0 is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/findbugs/findbugs-result-Test-Testability[Testability]_2019_02_27_22_18_10.html</file>
+  <line>18</line>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/findbugs/findbugs-result-Test-Testability[Testability]_2019_02_27_22_18_10.html" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+  <description>Selector detailrow1 is never used</description>
+</problem>
+</problems>

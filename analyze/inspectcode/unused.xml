@@ -1,0 +1,393 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/test/java/main/java/TestSmellsAndNoTestAbleCode.java</file>
+  <line>22</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.TestSmellsAndNoTestAbleCode void testCalculateTwoNumbers()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+  <description>Variable &lt;code&gt;NTACAS&lt;/code&gt; is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>24</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.NonTestableCodeAndSmells void calculateTwoNumbers()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>28</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.NonTestableCodeAndSmells void calculateTwoNumbers()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+  <description>Variable &lt;code&gt;c&lt;/code&gt; is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>33</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.NonTestableCodeAndSmells void calculateTwoNumbersTwo()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>37</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.NonTestableCodeAndSmells void calculateTwoNumbersTwo()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+  <description>Variable &lt;code&gt;c&lt;/code&gt; is never used</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>117</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person int getNumberOfKids()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>133</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person int getFeetSize()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>101</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getSpouse()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>129</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setHeigth(int heigth)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>85</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getJobTitle()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>53</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getAddress()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>97</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setJobAddress(java.lang.String jobAddress)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>113</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setAge(int age)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>69</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getCityOfBith()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>73</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setCityOfBith(java.lang.String cityOfBith)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>45</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getLastName()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>89</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setJobTitle(java.lang.String jobTitle)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>57</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setAddress(java.lang.String address)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>41</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setFirstName(java.lang.String firstName)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>125</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person int getHeigth()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>137</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setFeetSize(int feetSize)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>93</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getJobAddress()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>109</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person int getAge()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>121</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setNumberOfKids(int numberOfKids)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>77</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getJob()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>61</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getCountryOfBirth()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>105</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setSpouse(java.lang.String spouse)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>81</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setJob(java.lang.String job)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>37</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person java.lang.String getFirstName()" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>65</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setCountryOfBirth(java.lang.String countryOfBirth)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>49</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.Person void setLastName(java.lang.String lastName)" />
+  <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

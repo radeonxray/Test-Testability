@@ -1,0 +1,38 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>66</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.NonTestableCodeAndSmells float calculateFivePercent(float number)" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;theNumber&lt;/code&gt; is redundant #loc</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>67</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.NonTestableCodeAndSmells float calculateFivePercent(float number)" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;calculateNumber&lt;/code&gt; is redundant #loc</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>13</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.NonTestableCodeAndSmells int RandomNumber()" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;randomNumber&lt;/code&gt; is redundant #loc</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/TestAbleAndCleanCode.java</file>
+  <line>19</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="method" FQNAME="main.java.TestAbleAndCleanCode int DeadCode(int a, int b)" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;c&lt;/code&gt; is redundant #loc</description>
+</problem>
+</problems>

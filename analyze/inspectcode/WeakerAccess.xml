@@ -1,0 +1,182 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/NonTestableCodeAndSmells.java</file>
+  <line>6</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="class" FQNAME="main.java.NonTestableCodeAndSmells" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="packageLocal" />
+  </hints>
+  <description>Can be package-private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>17</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person feetSize" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>13</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person spouse" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>9</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person cityOfBith" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>16</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person heigth" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>12</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person jobAddress" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>3</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="class" FQNAME="main.java.Person" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="packageLocal" />
+  </hints>
+  <description>Can be package-private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>8</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person countryOfBirth" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>15</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person numberOfKids" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>11</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person jobTitle" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>7</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person address" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>14</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person age" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/Person.java</file>
+  <line>10</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="field" FQNAME="main.java.Person job" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="private" />
+  </hints>
+  <description>Can be private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/main/java/main/java/TestAbleAndCleanCode.java</file>
+  <line>3</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="class" FQNAME="main.java.TestAbleAndCleanCode" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="packageLocal" />
+  </hints>
+  <description>Can be package-private</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/src/test/java/main/java/TestNonSmellAndTestAbleCode.java</file>
+  <line>7</line>
+  <module>Testability</module>
+  <package>main.java</package>
+  <entry_point TYPE="class" FQNAME="main.java.TestNonSmellAndTestAbleCode" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+  <hints>
+    <hint value="packageLocal" />
+  </hints>
+  <description>Can be package-private</description>
+</problem>
+</problems>

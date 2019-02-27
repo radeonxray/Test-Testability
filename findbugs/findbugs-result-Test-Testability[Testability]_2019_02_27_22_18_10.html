@@ -1,0 +1,257 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>FindBugs Report</title>
+<style type="text/css">
+		.tablerow0 {
+			background: #EEEEEE;
+		}
+
+		.tablerow1 {
+			background: white;
+		}
+
+		.detailrow0 {
+			background: #EEEEEE;
+		}
+
+		.detailrow1 {
+			background: white;
+		}
+
+		.tableheader {
+			background: #b9b9fe;
+			font-size: larger;
+		}
+		</style>
+</head>
+<body>
+<h1>FindBugs Report</h1>
+<p>Produced using <a href="http://findbugs.sourceforge.net">FindBugs</a>3.0.1.</p>
+<p>Project: 
+			Test-Testability[Testability]</p>
+<h2>Metrics</h2>
+<p>211 lines of code analyzed,
+	in 5 classes, 
+	in 1 packages.</p>
+<table width="500" cellpadding="5" cellspacing="2">
+<tr class="tableheader">
+<th align="left">Metric</th>
+<th align="right">Total</th>
+<th align="right">Density*</th>
+</tr>
+<tr class="tablerow0">
+<td>High Priority Warnings</td>
+<td align="right">1</td>
+<td align="right">4.74</td>
+</tr>
+<tr class="tablerow1">
+<td>Medium Priority Warnings</td>
+<td align="right">5</td>
+<td align="right">23.70</td>
+</tr>
+<tr class="$totalClass">
+<td>
+<b>Total Warnings</b>
+</td>
+<td align="right">
+<b>6</b>
+</td>
+<td align="right">
+<b>28.44</b>
+</td>
+</tr>
+</table>
+<p>
+<i>(* Defects per Thousand lines of non-commenting source statements)</i>
+</p>
+<p>
+<br/>
+<br/>
+</p>
+<h2>Summary</h2>
+<table width="500" cellpadding="5" cellspacing="2">
+<tr class="tableheader">
+<th align="left">Warning Type</th>
+<th align="right">Number</th>
+</tr>
+<tr class="tablerow0">
+<td>
+<a href="#Warnings_BAD_PRACTICE">Bad practice Warnings</a>
+</td>
+<td align="right">3</td>
+</tr>
+<tr class="tablerow1">
+<td>
+<a href="#Warnings_STYLE">Dodgy code Warnings</a>
+</td>
+<td align="right">3</td>
+</tr>
+<tr class="tablerow0">
+<td>
+<b>Total</b>
+</td>
+<td align="right">
+<b>6</b>
+</td>
+</tr>
+</table>
+<p>
+<br/>
+<br/>
+</p>
+<h1>Warnings</h1>
+<p>Click on each warning link to see a full description of the issue, and
+	    details of how to resolve it.</p>
+<h2>
+<a name="Warnings_BAD_PRACTICE">Bad practice Warnings</a>
+</h2>
+<table class="warningtable" width="100%" cellspacing="2" cellpadding="5">
+<tr class="tableheader">
+<th align="left">Warning</th>
+<th align="left">Priority</th>
+<th align="left">Details</th>
+</tr>
+<tr class="tablerow1">
+<td width="20%" valign="top">
+<a href="#NM_METHOD_NAMING_CONVENTION">Method names should start with a lower case letter</a>
+</td>
+<td width="10%" valign="top">Medium</td>
+<td width="70%">
+<p>The method name main.java.NonTestableCodeAndSmells.DeadCode(int, int) doesn't start with a lower case letter<br/>
+<br/>
+<br/>In file NonTestableCodeAndSmells.java,
+					
+						lines 53
+						    to 59<br/>In class main.java.NonTestableCodeAndSmells<br/>In method main.java.NonTestableCodeAndSmells.DeadCode(int, int)<br/>At NonTestableCodeAndSmells.java:[lines 53-59]</p>
+</td>
+</tr>
+<tr class="tablerow0">
+<td width="20%" valign="top">
+<a href="#NM_METHOD_NAMING_CONVENTION">Method names should start with a lower case letter</a>
+</td>
+<td width="10%" valign="top">Medium</td>
+<td width="70%">
+<p>The method name main.java.NonTestableCodeAndSmells.RandomNumber() doesn't start with a lower case letter<br/>
+<br/>
+<br/>In file NonTestableCodeAndSmells.java,
+					
+						lines 12
+						    to 15<br/>In class main.java.NonTestableCodeAndSmells<br/>In method main.java.NonTestableCodeAndSmells.RandomNumber()<br/>At NonTestableCodeAndSmells.java:[lines 12-15]</p>
+</td>
+</tr>
+<tr class="tablerow1">
+<td width="20%" valign="top">
+<a href="#NM_METHOD_NAMING_CONVENTION">Method names should start with a lower case letter</a>
+</td>
+<td width="10%" valign="top">Medium</td>
+<td width="70%">
+<p>The method name main.java.TestAbleAndCleanCode.DeadCode(int, int) doesn't start with a lower case letter<br/>
+<br/>
+<br/>In file TestAbleAndCleanCode.java,
+					
+						lines 19
+						    to 22<br/>In class main.java.TestAbleAndCleanCode<br/>In method main.java.TestAbleAndCleanCode.DeadCode(int, int)<br/>At TestAbleAndCleanCode.java:[lines 19-22]</p>
+</td>
+</tr>
+</table>
+<p>
+<br/>
+<br/>
+</p>
+<h2>
+<a name="Warnings_STYLE">Dodgy code Warnings</a>
+</h2>
+<table class="warningtable" width="100%" cellspacing="2" cellpadding="5">
+<tr class="tableheader">
+<th align="left">Warning</th>
+<th align="left">Priority</th>
+<th align="left">Details</th>
+</tr>
+<tr class="tablerow1">
+<td width="20%" valign="top">
+<a href="#DLS_DEAD_LOCAL_STORE">Dead store to local variable</a>
+</td>
+<td width="10%" valign="top">High</td>
+<td width="70%">
+<p>Dead store to NTACAS in main.java.TestSmellsAndNoTestAbleCode.testCalculateTwoNumbers()<br/>
+<br/>
+<br/>In file TestSmellsAndNoTestAbleCode.java,
+					
+						line 22<br/>In class main.java.TestSmellsAndNoTestAbleCode<br/>In method main.java.TestSmellsAndNoTestAbleCode.testCalculateTwoNumbers()<br/>Local variable named NTACAS<br/>At TestSmellsAndNoTestAbleCode.java:[line 22]<br/>At TestSmellsAndNoTestAbleCode.java:[line 22]</p>
+</td>
+</tr>
+<tr class="tablerow0">
+<td width="20%" valign="top">
+<a href="#DLS_DEAD_LOCAL_STORE">Dead store to local variable</a>
+</td>
+<td width="10%" valign="top">Medium</td>
+<td width="70%">
+<p>Dead store to c in main.java.NonTestableCodeAndSmells.calculateTwoNumbers()<br/>
+<br/>
+<br/>In file NonTestableCodeAndSmells.java,
+					
+						line 28<br/>In class main.java.NonTestableCodeAndSmells<br/>In method main.java.NonTestableCodeAndSmells.calculateTwoNumbers()<br/>Local variable named c<br/>At NonTestableCodeAndSmells.java:[line 28]<br/>At NonTestableCodeAndSmells.java:[line 28]</p>
+</td>
+</tr>
+<tr class="tablerow1">
+<td width="20%" valign="top">
+<a href="#DLS_DEAD_LOCAL_STORE">Dead store to local variable</a>
+</td>
+<td width="10%" valign="top">Medium</td>
+<td width="70%">
+<p>Dead store to c in main.java.NonTestableCodeAndSmells.calculateTwoNumbersTwo()<br/>
+<br/>
+<br/>In file NonTestableCodeAndSmells.java,
+					
+						line 37<br/>In class main.java.NonTestableCodeAndSmells<br/>In method main.java.NonTestableCodeAndSmells.calculateTwoNumbersTwo()<br/>Local variable named c<br/>At NonTestableCodeAndSmells.java:[line 37]<br/>At NonTestableCodeAndSmells.java:[line 37]</p>
+</td>
+</tr>
+</table>
+<p>
+<br/>
+<br/>
+</p>
+<p>
+<br/>
+<br/>
+</p>
+<h1>
+<a name="Details">Warning Types</a>
+</h1>
+<h2>
+<a name="DLS_DEAD_LOCAL_STORE">Dead store to local variable</a>
+</h2>
+
+<p>
+This instruction assigns a value to a local variable,
+but the value is not read or used in any subsequent instruction.
+Often, this indicates an error, because the value computed is never
+used.
+</p>
+<p>
+Note that Sun's javac compiler often generates dead stores for
+final local variables.  Because FindBugs is a bytecode-based tool,
+there is no easy way to eliminate these false positives.
+</p>
+
+    
+<p>
+<br/>
+<br/>
+</p>
+<h2>
+<a name="NM_METHOD_NAMING_CONVENTION">Method names should start with a lower case letter</a>
+</h2>
+
+  <p>
+Methods should be verbs, in mixed case with the first letter lowercase, with the first letter of each internal word capitalized.
+</p>
+
+    
+<p>
+<br/>
+<br/>
+</p>
+</body>
+</html>

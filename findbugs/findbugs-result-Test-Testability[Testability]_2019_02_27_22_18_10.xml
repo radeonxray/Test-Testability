@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://findbugs.sourceforge.net/xsl/default.xsl"?>
+
+<BugCollection version="3.0.1" sequence="0" timestamp="1551302266056" analysisTimestamp="1551302265010" release="">
+  <Project projectName="Test-Testability[Testability]">
+    <Jar>D:\Dokumenter\Coding\Bachelor\Testing\Test-Testability\target\classes\main\java\NonTestableCodeAndSmells.class</Jar>
+    <Jar>D:\Dokumenter\Coding\Bachelor\Testing\Test-Testability\target\classes\main\java\Person.class</Jar>
+    <Jar>D:\Dokumenter\Coding\Bachelor\Testing\Test-Testability\target\classes\main\java\TestAbleAndCleanCode.class</Jar>
+    <Jar>D:\Dokumenter\Coding\Bachelor\Testing\Test-Testability\target\test-classes\main\java\TestNonSmellAndTestAbleCode.class</Jar>
+    <Jar>D:\Dokumenter\Coding\Bachelor\Testing\Test-Testability\target\test-classes\main\java\TestSmellsAndNoTestAbleCode.class</Jar>
+    <AuxClasspathEntry>D:/Dokumenter/Coding/Bachelor/Testing/Test-Testability/target/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>D:/Dokumenter/Coding/Bachelor/Testing/Test-Testability/target/test-classes</AuxClasspathEntry>
+    <SrcDir>D:/Dokumenter/Coding/Bachelor/Testing/Test-Testability/src/main/java</SrcDir>
+    <SrcDir>D:/Dokumenter/Coding/Bachelor/Testing/Test-Testability/src/main/resources</SrcDir>
+    <SrcDir>D:/Dokumenter/Coding/Bachelor/Testing/Test-Testability/src/test/java</SrcDir>
+  </Project>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="2" rank="17" abbrev="DLS" category="STYLE" instanceHash="e3f52d8aaa7a5ed1791864ca62867871" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="563">
+    <ShortMessage>Dead store to local variable</ShortMessage>
+    <LongMessage>Dead store to c in main.java.NonTestableCodeAndSmells.calculateTwoNumbers()</LongMessage>
+    <Class classname="main.java.NonTestableCodeAndSmells" primary="true">
+      <SourceLine classname="main.java.NonTestableCodeAndSmells" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java">
+        <Message>In NonTestableCodeAndSmells.java</Message>
+      </SourceLine>
+      <Message>In class main.java.NonTestableCodeAndSmells</Message>
+    </Class>
+    <Method classname="main.java.NonTestableCodeAndSmells" name="calculateTwoNumbers" signature="()V" isStatic="false" primary="true">
+      <SourceLine classname="main.java.NonTestableCodeAndSmells" start="26" end="29" startBytecode="0" endBytecode="8" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java"/>
+      <Message>In method main.java.NonTestableCodeAndSmells.calculateTwoNumbers()</Message>
+    </Method>
+    <LocalVariable name="c" register="3" pc="10" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named c</Message>
+    </LocalVariable>
+    <SourceLine classname="main.java.NonTestableCodeAndSmells" primary="true" start="28" end="28" startBytecode="9" endBytecode="9" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java">
+      <Message>At NonTestableCodeAndSmells.java:[line 28]</Message>
+    </SourceLine>
+    <SourceLine classname="main.java.NonTestableCodeAndSmells" primary="true" start="28" end="28" startBytecode="9" endBytecode="9" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java">
+      <Message>At NonTestableCodeAndSmells.java:[line 28]</Message>
+    </SourceLine>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.BASE_VALUE" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.LOCAL_NAME" value="c"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.NO_LOADS" value="true"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="2" rank="17" abbrev="DLS" category="STYLE" instanceHash="804ca7cdc1a5aa71c45466c4175df848" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="563">
+    <ShortMessage>Dead store to local variable</ShortMessage>
+    <LongMessage>Dead store to c in main.java.NonTestableCodeAndSmells.calculateTwoNumbersTwo()</LongMessage>
+    <Class classname="main.java.NonTestableCodeAndSmells" primary="true">
+      <SourceLine classname="main.java.NonTestableCodeAndSmells" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java">
+        <Message>In NonTestableCodeAndSmells.java</Message>
+      </SourceLine>
+      <Message>In class main.java.NonTestableCodeAndSmells</Message>
+    </Class>
+    <Method classname="main.java.NonTestableCodeAndSmells" name="calculateTwoNumbersTwo" signature="()V" isStatic="false" primary="true">
+      <SourceLine classname="main.java.NonTestableCodeAndSmells" start="35" end="38" startBytecode="0" endBytecode="8" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java"/>
+      <Message>In method main.java.NonTestableCodeAndSmells.calculateTwoNumbersTwo()</Message>
+    </Method>
+    <LocalVariable name="c" register="3" pc="10" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named c</Message>
+    </LocalVariable>
+    <SourceLine classname="main.java.NonTestableCodeAndSmells" primary="true" start="37" end="37" startBytecode="9" endBytecode="9" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java">
+      <Message>At NonTestableCodeAndSmells.java:[line 37]</Message>
+    </SourceLine>
+    <SourceLine classname="main.java.NonTestableCodeAndSmells" primary="true" start="37" end="37" startBytecode="9" endBytecode="9" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java">
+      <Message>At NonTestableCodeAndSmells.java:[line 37]</Message>
+    </SourceLine>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.BASE_VALUE" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.LOCAL_NAME" value="c"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.NO_LOADS" value="true"/>
+  </BugInstance>
+  <BugInstance type="NM_METHOD_NAMING_CONVENTION" priority="2" rank="16" abbrev="Nm" category="BAD_PRACTICE" instanceHash="6eab342709649f1c97cb1a3005268d18" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Method names should start with a lower case letter</ShortMessage>
+    <LongMessage>The method name main.java.NonTestableCodeAndSmells.DeadCode(int, int) doesn&apos;t start with a lower case letter</LongMessage>
+    <Class classname="main.java.NonTestableCodeAndSmells" primary="true">
+      <SourceLine classname="main.java.NonTestableCodeAndSmells" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java">
+        <Message>In NonTestableCodeAndSmells.java</Message>
+      </SourceLine>
+      <Message>In class main.java.NonTestableCodeAndSmells</Message>
+    </Class>
+    <Method classname="main.java.NonTestableCodeAndSmells" name="DeadCode" signature="(II)I" isStatic="false" primary="true">
+      <SourceLine classname="main.java.NonTestableCodeAndSmells" start="53" end="59" startBytecode="0" endBytecode="81" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java"/>
+      <Message>In method main.java.NonTestableCodeAndSmells.DeadCode(int, int)</Message>
+    </Method>
+    <SourceLine classname="main.java.NonTestableCodeAndSmells" start="53" end="59" startBytecode="0" endBytecode="81" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java" synthetic="true">
+      <Message>At NonTestableCodeAndSmells.java:[lines 53-59]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="NM_METHOD_NAMING_CONVENTION" priority="2" rank="16" abbrev="Nm" category="BAD_PRACTICE" instanceHash="af4a0a8a93710eb97740868050b16424" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Method names should start with a lower case letter</ShortMessage>
+    <LongMessage>The method name main.java.NonTestableCodeAndSmells.RandomNumber() doesn&apos;t start with a lower case letter</LongMessage>
+    <Class classname="main.java.NonTestableCodeAndSmells" primary="true">
+      <SourceLine classname="main.java.NonTestableCodeAndSmells" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java">
+        <Message>In NonTestableCodeAndSmells.java</Message>
+      </SourceLine>
+      <Message>In class main.java.NonTestableCodeAndSmells</Message>
+    </Class>
+    <Method classname="main.java.NonTestableCodeAndSmells" name="RandomNumber" signature="()I" isStatic="false" primary="true">
+      <SourceLine classname="main.java.NonTestableCodeAndSmells" start="12" end="15" startBytecode="0" endBytecode="89" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java"/>
+      <Message>In method main.java.NonTestableCodeAndSmells.RandomNumber()</Message>
+    </Method>
+    <SourceLine classname="main.java.NonTestableCodeAndSmells" start="12" end="15" startBytecode="0" endBytecode="89" sourcefile="NonTestableCodeAndSmells.java" sourcepath="main/java/NonTestableCodeAndSmells.java" relSourcepath="main\java\main\java\NonTestableCodeAndSmells.java" synthetic="true">
+      <Message>At NonTestableCodeAndSmells.java:[lines 12-15]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="NM_METHOD_NAMING_CONVENTION" priority="2" rank="16" abbrev="Nm" category="BAD_PRACTICE" instanceHash="8f47c52b161433a8ff076d905c102af7" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Method names should start with a lower case letter</ShortMessage>
+    <LongMessage>The method name main.java.TestAbleAndCleanCode.DeadCode(int, int) doesn&apos;t start with a lower case letter</LongMessage>
+    <Class classname="main.java.TestAbleAndCleanCode" primary="true">
+      <SourceLine classname="main.java.TestAbleAndCleanCode" sourcefile="TestAbleAndCleanCode.java" sourcepath="main/java/TestAbleAndCleanCode.java" relSourcepath="main\java\main\java\TestAbleAndCleanCode.java">
+        <Message>In TestAbleAndCleanCode.java</Message>
+      </SourceLine>
+      <Message>In class main.java.TestAbleAndCleanCode</Message>
+    </Class>
+    <Method classname="main.java.TestAbleAndCleanCode" name="DeadCode" signature="(II)I" isStatic="false" primary="true">
+      <SourceLine classname="main.java.TestAbleAndCleanCode" start="19" end="22" startBytecode="0" endBytecode="81" sourcefile="TestAbleAndCleanCode.java" sourcepath="main/java/TestAbleAndCleanCode.java" relSourcepath="main\java\main\java\TestAbleAndCleanCode.java"/>
+      <Message>In method main.java.TestAbleAndCleanCode.DeadCode(int, int)</Message>
+    </Method>
+    <SourceLine classname="main.java.TestAbleAndCleanCode" start="19" end="22" startBytecode="0" endBytecode="81" sourcefile="TestAbleAndCleanCode.java" sourcepath="main/java/TestAbleAndCleanCode.java" relSourcepath="main\java\main\java\TestAbleAndCleanCode.java" synthetic="true">
+      <Message>At TestAbleAndCleanCode.java:[lines 19-22]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="1" rank="15" abbrev="DLS" category="STYLE" instanceHash="609c730a5357487c281b48be01ec5905" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="563">
+    <ShortMessage>Dead store to local variable</ShortMessage>
+    <LongMessage>Dead store to NTACAS in main.java.TestSmellsAndNoTestAbleCode.testCalculateTwoNumbers()</LongMessage>
+    <Class classname="main.java.TestSmellsAndNoTestAbleCode" primary="true">
+      <SourceLine classname="main.java.TestSmellsAndNoTestAbleCode" sourcefile="TestSmellsAndNoTestAbleCode.java" sourcepath="main/java/TestSmellsAndNoTestAbleCode.java" relSourcepath="test\java\main\java\TestSmellsAndNoTestAbleCode.java">
+        <Message>In TestSmellsAndNoTestAbleCode.java</Message>
+      </SourceLine>
+      <Message>In class main.java.TestSmellsAndNoTestAbleCode</Message>
+    </Class>
+    <Method classname="main.java.TestSmellsAndNoTestAbleCode" name="testCalculateTwoNumbers" signature="()V" isStatic="false" primary="true">
+      <SourceLine classname="main.java.TestSmellsAndNoTestAbleCode" start="22" end="26" startBytecode="0" endBytecode="4" sourcefile="TestSmellsAndNoTestAbleCode.java" sourcepath="main/java/TestSmellsAndNoTestAbleCode.java" relSourcepath="test\java\main\java\TestSmellsAndNoTestAbleCode.java"/>
+      <Message>In method main.java.TestSmellsAndNoTestAbleCode.testCalculateTwoNumbers()</Message>
+    </Method>
+    <LocalVariable name="NTACAS" register="1" pc="8" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named NTACAS</Message>
+    </LocalVariable>
+    <SourceLine classname="main.java.TestSmellsAndNoTestAbleCode" primary="true" start="22" end="22" startBytecode="7" endBytecode="7" sourcefile="TestSmellsAndNoTestAbleCode.java" sourcepath="main/java/TestSmellsAndNoTestAbleCode.java" relSourcepath="test\java\main\java\TestSmellsAndNoTestAbleCode.java">
+      <Message>At TestSmellsAndNoTestAbleCode.java:[line 22]</Message>
+    </SourceLine>
+    <SourceLine classname="main.java.TestSmellsAndNoTestAbleCode" primary="true" start="22" end="22" startBytecode="7" endBytecode="7" sourcefile="TestSmellsAndNoTestAbleCode.java" sourcepath="main/java/TestSmellsAndNoTestAbleCode.java" relSourcepath="test\java\main\java\TestSmellsAndNoTestAbleCode.java">
+      <Message>At TestSmellsAndNoTestAbleCode.java:[line 22]</Message>
+    </SourceLine>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.DEAD_OBJECT_STORE" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.LOCAL_NAME" value="NTACAS"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.METHOD_RESULT" value="true"/>
+  </BugInstance>
+  <BugCategory category="BAD_PRACTICE">
+    <Description>Bad practice</Description>
+  </BugCategory>
+  <BugCategory category="STYLE">
+    <Description>Dodgy code</Description>
+  </BugCategory>
+  <BugPattern type="DLS_DEAD_LOCAL_STORE" abbrev="DLS" category="STYLE">
+    <ShortDescription>Dead store to local variable</ShortDescription>
+    <Details><![CDATA[
+
+<p>
+This instruction assigns a value to a local variable,
+but the value is not read or used in any subsequent instruction.
+Often, this indicates an error, because the value computed is never
+used.
+</p>
+<p>
+Note that Sun's javac compiler often generates dead stores for
+final local variables.  Because FindBugs is a bytecode-based tool,
+there is no easy way to eliminate these false positives.
+</p>
+
+    ]]></Details>
+  </BugPattern>
+  <BugPattern type="NM_METHOD_NAMING_CONVENTION" abbrev="Nm" category="BAD_PRACTICE">
+    <ShortDescription>Method names should start with a lower case letter</ShortDescription>
+    <Details><![CDATA[
+
+  <p>
+Methods should be verbs, in mixed case with the first letter lowercase, with the first letter of each internal word capitalized.
+</p>
+
+    ]]></Details>
+  </BugPattern>
+  <BugCode abbrev="DLS" cweid="563">
+    <Description>Dead local store</Description>
+  </BugCode>
+  <BugCode abbrev="Nm">
+    <Description>Confusing method name</Description>
+  </BugCode>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Wed, 27 Feb 2019 20:10:57 +0100" total_classes="5" referenced_classes="18" total_bugs="6" total_size="211" num_packages="1" java_version="1.8.0_152-release" vm_version="25.152-b26" cpu_seconds="17.02" clock_seconds="25.28" peak_mbytes="618.61" alloc_mbytes="725.00" gc_seconds="0.05" priority_2="5" priority_1="1">
+    <FileStats path="main/java/NonTestableCodeAndSmells.java" bugCount="4" size="36" bugHash="87da9ab6c793df1f6cacf4ea9be04de0"/>
+    <FileStats path="main/java/Person.java" bugCount="0" size="95"/>
+    <FileStats path="main/java/TestAbleAndCleanCode.java" bugCount="1" size="22" bugHash="c187bc56a9cce24d9c753ff03cd822ec"/>
+    <FileStats path="main/java/TestNonSmellAndTestAbleCode.java" bugCount="0" size="28"/>
+    <FileStats path="main/java/TestSmellsAndNoTestAbleCode.java" bugCount="1" size="30" bugHash="d23499f355ba8a6006004e1695eefb3f"/>
+    <PackageStats package="main.java" total_bugs="6" total_types="5" total_size="211" priority_2="5" priority_1="1">
+      <ClassStats class="main.java.NonTestableCodeAndSmells" sourceFile="NonTestableCodeAndSmells.java" interface="false" size="36" bugs="4" priority_2="4"/>
+      <ClassStats class="main.java.Person" sourceFile="Person.java" interface="false" size="95" bugs="0"/>
+      <ClassStats class="main.java.TestAbleAndCleanCode" sourceFile="TestAbleAndCleanCode.java" interface="false" size="22" bugs="1" priority_2="1"/>
+      <ClassStats class="main.java.TestNonSmellAndTestAbleCode" sourceFile="TestNonSmellAndTestAbleCode.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="main.java.TestSmellsAndNoTestAbleCode" sourceFile="TestSmellsAndNoTestAbleCode.java" interface="false" size="30" bugs="1" priority_1="1"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.FindBugs2" totalMilliseconds="259" invocations="2" avgMicrosecondsPerInvocation="129600" maxMicrosecondsPerInvocation="145079" standardDeviationMircosecondsPerInvocation="15479"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="124" invocations="361" avgMicrosecondsPerInvocation="344" maxMicrosecondsPerInvocation="13390" standardDeviationMircosecondsPerInvocation="958"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="70" invocations="361" avgMicrosecondsPerInvocation="196" maxMicrosecondsPerInvocation="15857" standardDeviationMircosecondsPerInvocation="946"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="51" invocations="18" avgMicrosecondsPerInvocation="2848" maxMicrosecondsPerInvocation="8936" standardDeviationMircosecondsPerInvocation="3167"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="33" invocations="123" avgMicrosecondsPerInvocation="269" maxMicrosecondsPerInvocation="4198" standardDeviationMircosecondsPerInvocation="491"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="33" invocations="18" avgMicrosecondsPerInvocation="1837" maxMicrosecondsPerInvocation="7956" standardDeviationMircosecondsPerInvocation="2119"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="29" invocations="37" avgMicrosecondsPerInvocation="805" maxMicrosecondsPerInvocation="19109" standardDeviationMircosecondsPerInvocation="3095"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="28" invocations="58" avgMicrosecondsPerInvocation="495" maxMicrosecondsPerInvocation="23514" standardDeviationMircosecondsPerInvocation="3050"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="20" invocations="58" avgMicrosecondsPerInvocation="351" maxMicrosecondsPerInvocation="7553" standardDeviationMircosecondsPerInvocation="1018"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="20" invocations="58" avgMicrosecondsPerInvocation="348" maxMicrosecondsPerInvocation="5812" standardDeviationMircosecondsPerInvocation="806"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="20" invocations="18" avgMicrosecondsPerInvocation="1114" maxMicrosecondsPerInvocation="3662" standardDeviationMircosecondsPerInvocation="1217"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="18" invocations="58" avgMicrosecondsPerInvocation="321" maxMicrosecondsPerInvocation="9021" standardDeviationMircosecondsPerInvocation="1167"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="18" invocations="58" avgMicrosecondsPerInvocation="318" maxMicrosecondsPerInvocation="9196" standardDeviationMircosecondsPerInvocation="1192"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="17" invocations="18" avgMicrosecondsPerInvocation="983" maxMicrosecondsPerInvocation="7698" standardDeviationMircosecondsPerInvocation="1788"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="17" invocations="18" avgMicrosecondsPerInvocation="979" maxMicrosecondsPerInvocation="5900" standardDeviationMircosecondsPerInvocation="1618"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="16" invocations="58" avgMicrosecondsPerInvocation="290" maxMicrosecondsPerInvocation="6475" standardDeviationMircosecondsPerInvocation="881"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.asm.ClassReaderAnalysisEngine" totalMilliseconds="14" invocations="329" avgMicrosecondsPerInvocation="45" maxMicrosecondsPerInvocation="10039" standardDeviationMircosecondsPerInvocation="567"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
