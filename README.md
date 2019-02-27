@@ -29,7 +29,7 @@ Use the same tool(s) as in 2) to automatically check your code again. Document t
 
 -----
 
-Results
+## Results
 
 **Note** I did a lot of refactoring prior to doing the Jacoco, Checkstyle and Findbugs, which might have deluted the results.
 
