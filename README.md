@@ -37,4 +37,7 @@ You can find the results of the [Findbugs-plugin here](https://github.com/radeon
 
 The results for [Jacoco here](https://github.com/radeonxray/Test-Testability/tree/master/jacoco)
 
+Results for [Intellij Coverage is here](https://github.com/radeonxray/Test-Testability/tree/master/intellijcoverage)
+
 The results for Checkstyles has been genereated in a .xml, since Intellij could not successfully generate the results in a HTML-file ):
+The [XML results can be found here](https://github.com/radeonxray/Test-Testability/tree/master/analyze/inspectcode)
