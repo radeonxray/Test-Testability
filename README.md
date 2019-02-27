@@ -26,3 +26,15 @@ https://refactoring.com/catalog/replaceConstructorWithFactoryFunction.html
 https://refactoring.com/catalog/replaceExceptionWithPrecheck.html
 - Static analysis - again:
 Use the same tool(s) as in 2) to automatically check your code again. Document the result
+
+-----
+
+Results
+
+**Note** I did a lot of refactoring prior to doing the Jacoco, Checkstyle and Findbugs, which might have deluted the results.
+
+You can find the results of the [Findbugs-plugin here](https://github.com/radeonxray/Test-Testability/tree/master/findbugs)
+
+The results for [Jacoco here](https://github.com/radeonxray/Test-Testability/tree/master/jacoco)
+
+The results for Checkstyles has been genereated in a .xml, since Intellij could not successfully generate the results in a HTML-file ):
